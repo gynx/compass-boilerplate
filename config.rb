@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+require 'compass-normalize'
+require 'susy'
 # Folder Settings
 
 relative_assests = true
@@ -12,6 +13,4 @@ output_style = :compressed
 
 # Preferred Syntax
 preferred_syntax = :scss
-=======
-  
->>>>>>> origin/master
+
