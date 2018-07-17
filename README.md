@@ -1,2 +1,5 @@
-# compass-boilerplate
-boilerplate starter for compass and sass with susy
+# Compass Boilerplate
+
+This is a boilerplate project starter for using SASS with the susy grid.
+
+
